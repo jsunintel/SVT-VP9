@@ -8,7 +8,7 @@
 
 #include <time.h>
 
-#include "EbSvtVp9Enc.h"
+#include "EbApi.h"
 
 #include "EbDefinitions.h"
 #include "EbSystemResourceManager.h"

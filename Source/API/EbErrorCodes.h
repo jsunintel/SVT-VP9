@@ -3,8 +3,8 @@
 * SPDX - License - Identifier: BSD - 2 - Clause - Patent
 */
 
-#ifndef EbSvtVp9ErrorCodes_h
-#define EbSvtVp9ErrorCodes_h
+#ifndef EbErrorCodes_h
+#define EbErrorCodes_h
 
 #ifdef __cplusplus
 extern "C" {
@@ -51,4 +51,4 @@ typedef enum EncoderErrorCodes
 }
 #endif // __cplusplus
 
-#endif // EbSvtVp9ErrorCodes_h
+#endif // EbErrorCodes_h

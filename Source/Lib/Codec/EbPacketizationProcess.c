@@ -25,7 +25,7 @@
 
 #include "EbEntropyCoding.h"
 #include "EbRateControlTasks.h"
-#include "EbSvtVp9Time.h"
+#include "EbTime.h"
 #include "stdint.h"
 
 struct vpx_write_bit_buffer *wb; // needs to be here
