@@ -19,7 +19,7 @@
 #include "EbPictureManagerQueue.h"
 #include "EbPredictionStructure.h"
 #include "EbRateControlTasks.h"
-#include "EbSvtVp9ErrorCodes.h"
+#include "EbErrorCodes.h"
 
 /************************************************
  * Defines

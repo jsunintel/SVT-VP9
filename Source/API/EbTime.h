@@ -3,8 +3,8 @@
 * SPDX - License - Identifier: BSD - 2 - Clause - Patent
 */
 
-#ifndef EbSvtVp9Time_h
-#define EbSvtVp9Time_h
+#ifndef EbTime_h
+#define EbTime_h
 
 #include "stdint.h"
 
@@ -38,5 +38,5 @@ void eb_injector(
     uint64_t processed_frame_count,
     uint32_t injector_frame_rate);
 
-#endif // EbSvtVp9Time_h
+#endif // EbTime_h
 /* File EOF */
